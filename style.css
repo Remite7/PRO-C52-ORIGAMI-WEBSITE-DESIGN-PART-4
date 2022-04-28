@@ -1,0 +1,165 @@
+.head{
+      
+    background-color: yellow;
+    border:solid;
+    font-family: fantasy;
+     }
+  
+     .note{
+       background-color: orange;
+       border: dotted;
+     }
+
+.menu{
+  display: flex;
+     justify-content: space-between;
+     background-origin: #000000;
+     padding: 15px;
+     font-size: 20px;
+     font-family: sans-serif;
+     font-weight: 400;
+     color: #000000;  
+}
+body{
+    margin: 0px;
+    background-color: #f7f2f2;
+}
+
+.img{
+  border: solid;
+}
+  
+  .grid {
+    background: darkred;
+    background-color: #F0F8FF;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    text-align: left;
+    flex-wrap: wrap;
+  } 
+.grid img{
+  border: 2px solid #000000;
+  border-radius: 50px;
+}
+
+.origami {
+
+  border-radius: 20px;
+  background-color: #ffffff;
+  padding: 30px;
+  margin: 25px;
+  width: 310px;
+  font-family: fantasy;
+
+}
+
+  .camel {
+    border: 1px solid #0000FF;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#E8E5E4;
+    border-width: 6px;
+   
+  }
+  
+  
+  .chameleon {
+    border: 1px solid #0000FF;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#E8E5E4;
+    border-width: 6px;
+  }
+  
+  .cicada {
+    border: 1px solid #0000FF;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    padding: 50px;
+    background-color:#E8E5E4;
+    border-width: 6px;
+  }
+  
+  .panda {
+    border: 1px solid #0000FF;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    padding: 50px;
+    background-color:#E8E5E4;
+    border-width: 6px;
+  }
+  
+  .pigeon {
+    border: 1px solid #0000FF;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#E8E5E4;
+    border-width: 6px;
+  }
+  
+  .teddy {
+    border: 1px solid #0000FF;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#E8E5E4;
+    border-width: 6px;
+  }
+
+  .youtube{
+    border: 1px solid #0000FF;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 650px;
+    padding: 50px;
+    background-color:#E8E5E4;
+    border-width: 6px;
+  }
+
+  .instagram{
+    border: 1px solid #0000FF;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 650px;
+    padding: 50px;
+    background-color:#E8E5E4;
+    border-width: 6px;
+  }
+
+  .origami:hover{
+    transform: scale(1.2);
+  }
+  
+  a:link{
+    transform: scale(1.2);
+    color: rgb(255, 255, 255);
+    font-family: Impact, sans-serif, 'Arial Narrow Bold', sans-serif;
+  }
+  
+  
+  a:visited{
+    color: rgb(255, 255, 255);
+    font-family: Impact, sans-serif, 'Arial Narrow Bold', sans-serif;
+  }
+  .img:hover{
+    background-color: rgba(66, 132, 255, 0.349);
+    color:  rgb(255, 255, 255);
+  }
